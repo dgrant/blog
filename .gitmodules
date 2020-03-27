@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:dgrant/dgrant.github.io.git
 	branch = master
+[submodule "themes/bare"]
+	path = themes/bare
+	url = https://github.com/orf/bare-hugo-theme.git
